@@ -1,5 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-744WynwLsMw/XbBpCXG8fHI/AAAAAAAAMT4/u0a1bpLskYgrwGbl1hSu2SDj_Mig8SXJQCLCBGASYHQ/s1600/2000_600px.gif)](https://rishavchanda.10)
 <h1 align="center">Hi 👋, I'm I'm Divyansh! Fullstack Software Developer 👋</h1>
 <h3 align="center">🏆 B.Tech in Computer Science and Technology 🎉🏦 Specialization: Cloud Computing</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif  ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshsethi1&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshsethi1" /> </p>
 
